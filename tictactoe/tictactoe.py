@@ -66,4 +66,4 @@ def main(board):
 
 main(values)
 
-input("Enter for EXIT")
+input("Press any key for EXIT")
